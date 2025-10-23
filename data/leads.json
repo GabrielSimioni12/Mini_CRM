@@ -1,0 +1,23 @@
+[
+  {
+    "name": "gabriel",
+    "company": "fiap",
+    "email": "gab@gmail.com",
+    "stage": "novo",
+    "created": "2025-10-23"
+  },
+  {
+    "name": "fagner",
+    "company": "alura",
+    "email": "fafa@gmail.com",
+    "stage": "novo",
+    "created": "2025-10-23"
+  },
+  {
+    "name": "Neymar",
+    "company": "Barcelona",
+    "email": "ney10@gmail.com",
+    "stage": "novo",
+    "created": "2025-10-23"
+  }
+]
