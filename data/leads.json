@@ -19,5 +19,12 @@
     "email": "ney10@gmail.com",
     "stage": "novo",
     "created": "2025-10-23"
+  },
+  {
+    "name": "Steve Jobs",
+    "company": "APPLE",
+    "email": "apple@gmail.com",
+    "stage": "novo",
+    "created": "2025-10-23"
   }
 ]
